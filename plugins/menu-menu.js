@@ -13,7 +13,7 @@ await conn.sendMessage(m.chat, {
 
 - Kami berharap Anda akan menikmati menggunakan dashboard bot kami dan semoga Anda mendapatkan manfaat dari fitur-fitur yang kami tawarkan.
 `
-    let pp = "https://cerdasin.netlify.app/img/thumbnail1.jpg"
+    let pp = "https://telegra.ph/file/1ad58be37691ae8ed69cb.jpg"
 	await conn.send2ButtonLoc(m.chat, pp, cap, wm, emojis + " All Menu", usedPrefix + "allmenu", emojis + " List Menu", usedPrefix + "menulist", m, adReply)
 }
 handler.help = ["menu", "help", "?"]
