@@ -6,11 +6,11 @@ import moment from "moment-timezone"
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ["6285380166282"],
-  ["6285380166282", "️𝐎𝐰𝐧𝐞𝐫", true]
+  ["62822522851432"],
+  ["62822522851432", "️RYAN Aditya", true]
 ]
-global.mods = ["6285380166282"]
-global.prems = ["6285380166282"]
+global.mods = ["62822522851432"]
+global.prems = ["62822522851432"]
 
 /*Website*/
 global.APIs = {
@@ -68,19 +68,19 @@ HIRO
 */
 
 /*Number*/
-global.nomorbot = "6285380166282"
-global.nomorown = "6285380166282"
-global.namebot = "𝙼𝚊𝚡𝚡𝚢 𝙵𝚝 𝙱𝚎𝚊𝚝𝚛𝚒𝚡"
-global.nameown = "「 𝙆𝙖𝙝𝙛𝙞 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 」"
+global.nomorbot = "62822522851434"
+global.nomorown = "62822522851432"
+global.namebot = "RyanBotz-V.3"
+global.nameown = "「 Rya Aditya 」"
 
 /* Random */
 global.pmenus = pickRandom(["◈","➭","ଓ","⟆•","⳻⳻","•","↬","◈▻","⭑","ᯬ","◉","᭻","»","〆","々","⛥","✗","⚜","⚚","♪"])
 global.htjava = pickRandom(["⛶","❏","⫹⫺","☰","⎔","✦","⭔","⬟","⛊","⚝"])
 
 /*Watermark*/
-global.wm = "                「 Maxxy Botz あ⁩ 」"
+global.wm = "                「 RyanBotz-V.3⁩ ラ 」"
 global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷"
-global.wm3 = htjava + "𝙼𝚊𝚡𝚡𝚢 𝙱𝚘𝚝𝚣"
+global.wm3 = htjava + "RyanBotz-V.3"
 global.botdate = `${htjava} Date :  ${moment.tz("Asia/Jakarta").format("DD/MM/YY")}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Jakarta").format("HH:mm:ss")}`
 global.titlebot = `${htjava} Time Sever : ${moment.tz("Asia/Jakarta").format("HH:mm:ss")}\n⫹⫺ Date Server :  ${moment.tz("Asia/Jakarta").format("DD/MM/YY")}`
@@ -96,13 +96,13 @@ global.flaaa = [
 "https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text="]
 
 /*Link*/
-global.sig = "https://instagram.com/kahfiofc"
-global.sgh = "https://www.github.com/Frezzy-Md"
-global.sgc = "https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup"
+global.sig = "-"
+global.sgh = "https://www.github.com/RyannAditya"
+global.sgc = "https://chat.whatsapp.com/I47cTfEwzIC391KPBjbTPq"
 global.sdc = "-"
-global.snh = "https://lynk.id/kahfi.xd"
-global.sfb = "https://www.facebook.com/kahfiofc"
-global.syt = "https://www.youtube.com/@MaxxyBotz"
+global.snh = "-"
+global.sfb = "-"
+global.syt = "-"
 
 /*Nsfw*/
 global.premnsfw = true
@@ -188,10 +188,10 @@ global.fpagedoc = "10".repeat(5)
 "https://cerdasin.netlify.app/img/thumbnail3.jpg",
 "https://cerdasin.netlify.app/img/thumbnail4.jpg",
 "https://cerdasin.netlify.app/img/thumbnail5.jpg"]
-		global.thumb = "https://cerdasin.netlify.app/img/thumbnail3.jpg"
+		global.thumb = "https://telegra.ph/file/1ad58be37691ae8ed69cb.jpg"
 		global.imagebot = "https://cerdasin.netlify.app/img/thumbnail2.jpg"
-		global.thumbdoc = "https://cerdasin.netlify.app/img/thumbnail1.jpg"
-		global.logo = "https://cerdasin.netlify.app/img/thumbnail.jpg"
+		global.thumbdoc = "https://telegra.ph/file/1ad58be37691ae8ed69cb.jpg"
+		global.logo = "https://telegra.ph/file/1ad58be37691ae8ed69cb.jpg"
 		
   /* Begin */
 		global.ucapan = Pagi()
@@ -200,7 +200,7 @@ global.fpagedoc = "10".repeat(5)
   /* Global Random */
 		global.doc = pickRandom(["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"])
 		global.fakes = Fakes()
-		global.knimg = "https://cerdasin.netlify.app/img/thumbnail1.jpg"
+		global.knimg = "https://telegra.ph/file/1ad58be37691ae8ed69cb.jpg"
 		
 /*Watermark*/
 global.lopr = "🅟"
@@ -211,9 +211,9 @@ global.cmenub = "│" + pmenus
 global.cmenuf = "╰–━═━––━═━–⳹"
 global.cmenua = "\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     "
 global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"])
-global.packname = "𝗠𝗮𝗱𝗲 𝗕𝘆"
+global.packname = "RyanBotz-V.3"
 global.stickpack = packname
-global.author = "𝙈𝙖𝙭𝙭𝙮 乂 𝙆𝙖𝙝𝙛𝙞"
+global.author = "I Am Yann"
 global.stickauth = author + "\nwa.me/" + nomorbot
 global.multiplier = 69
 
@@ -221,22 +221,22 @@ global.multiplier = 69
 global.eror = "*E R R O R*"
 global.wait = "*W A I T*"
 global.render = "*R E N D E R*"
-global.webs = "https://lynk.id/kahfi.xd"
-global.gcwangsaf = "https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup"
+global.webs = "-"
+global.gcwangsaf = "https://chat.whatsapp.com/I47cTfEwzIC391KPBjbTPq"
 
 /*Donasi*/
-global.saweria = "https://saweria.co/MaxxyBotz"
-global.dana = "085380166282"
-global.pulsa = "085295374964"
+global.saweria = "https://saweria.co/jbyannstore"
+global.dana = "082252285143"
+global.pulsa = "082252285143"
 global.trakteer = "-"
 global.paypal = "-"
 global.gopay = "-"
-global.pdana = "085380166282"
+global.pdana = "082252285143"
 global.povo = "-"
 global.pgopay = "-"
-global.ppulsa = "085380166282"
-global.ppulsa2 = "085380166282"
-global.psaweria = "https://saweria.co/MaxxyBotz"
+global.ppulsa = "-"
+global.ppulsa2 = "-"
+global.psaweria = "https://saweria.co/jbyannstore"
 
 /* Fake adReplyS*/
 		global.adReplyS = {
@@ -251,7 +251,7 @@ global.psaweria = "https://saweria.co/MaxxyBotz"
 						description: "WudySoft",
 						previewType: "PHOTO",
 						thumbnail: await fs.readFileSync("./thumbnail.jpg"),
-						sourceUrl: "https://github.com/Frezzy-XD",
+						sourceUrl: "https://chat.whatsapp.com/I47cTfEwzIC391KPBjbTPq",
 				}
 			}
 		}
@@ -267,7 +267,7 @@ global.psaweria = "https://saweria.co/MaxxyBotz"
 						mediaUrl: sgc,
 						renderLargerThumbnail: true,
 						showAdAttribution: true,
-						sourceId: "Maxxy",
+						sourceId: "𝙔𝙖𝙣𝙣",
 						sourceType: "PDF",
 						previewType: "PDF",
 						sourceUrl: sgc,
@@ -498,7 +498,7 @@ function Sapa() {
   
   /* Fake Reply */
   function Fakes() {
-let Org = pickRandom(["0", "628561122343", "6288906250517"])
+let Org = pickRandom(["0", "62822522851432", "62822522851434"])
 let Hai = pickRandom(["Apa kabar ", "Halo ", "Hai "])
 let Sarapan = "👋 " + Hai + Pagi()
 let Thum = "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEYARgMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAwIEBQEGAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAADEnCzTm0o6l9dSQ2tZIqAZp3lgW3R0F84n1eWZAxdnDpHLdVh6N6pToxM0GdmXql5xOhCOrw0bnmvQzTeRomNX7G5edD0dcDD9EE2UwlzkBrmwBf/EACkQAAICAQMDAwMFAAAAAAAAAAECAAMRBCExEBJBBRMiIFFhIzIzQnH/2gAIAQEAAT8AlaF2xDUi4UcmfFBtExx5j1r3DbmPRvsYylTg9UsFagDmG5i2YXc+YLHByDPefIJgvyRkSwrYCR9HY2cAGNRZ2rhDFpfO6njrkjrp0V3+XgRbFf8AbU0pwUG0tQdhjCr+1bH8y3HeSvHQdNE4S9SYtiZyvBilQISCIzDtAwJ6iEUIEAmDjPiDpQ3bah/M9pTuJgKIVyJ7GeZ6hhbVQcAQsBUF8k5i9MzQ6lbqgCfkIQTBmOyopYzVWi21mHRYnppx+o2DL9AKaO7OTKLyrVqowc7mLZ94bV8TVtmlsmFecbgQROJzfPUiRSJQM3J/vXXfwGaMhmNZGzS1PbtZfsZUJ//EABgRAAMBAQAAAAAAAAAAAAAAAAABETAg/9oACAECAQE/AEVFHMbi+P/EABwRAAEEAwEAAAAAAAAAAAAAACAAAQIREBIxQf/aAAgBAwEBPwA6CorWL+gwxT8z/9k="
