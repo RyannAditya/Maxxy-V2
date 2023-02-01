@@ -68,7 +68,7 @@ HIRO
 */
 
 /*Number*/
-global.nomorbot = "62822522851439"
+global.nomorbot = "62822522851434"
 global.nomorown = "62822522851432"
 global.namebot = "RyanBotz-V.3"
 global.nameown = "「 Rya Aditya 」"
